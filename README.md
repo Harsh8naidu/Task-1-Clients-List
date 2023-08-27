@@ -1,2 +1,2 @@
 # Task-1-Clients-List
-A sample assignment for the internship.
+Displaying a list of clients using API in Unity.
